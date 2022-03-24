@@ -30,3 +30,8 @@ r2 = Robot('Jerry','blue',40)
 r1.introduce_self()
 r2.introduce_self()
 
+
+# https://www.geeksforgeeks.org/__call__-in-python/
+# https://stackoverflow.com/questions/9663562/what-is-the-difference-between-init-and-call
+# https://www.programiz.com/python-programming/property
+# https://numba.pydata.org/numba-doc/latest/user/jit.html -- Speeds up code
