@@ -1,5 +1,5 @@
 import math
-def F_t(params):
+def F_thrust(params):
     p_0 = params[0]
     r_w = params[1]
     r_p = params[2]
@@ -15,6 +15,5 @@ def F_t(params):
     F_t = (F_rack*r_g)/r_w
     
     return(F_t)
-    
     
     
