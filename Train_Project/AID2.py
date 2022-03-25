@@ -46,21 +46,22 @@ tspan = np.arange(0,11,1)
 
 # find: a, b, x0, x1, x2, x0,:
 
-f = lambda t,y: train_Motion_AID2(tspan,y,params)
+odefun = lambda t,y: train_Motion_AID2(tspan,y,params)
 maxIters = int(100)
 tol = 0.001
-y = euler(f, tspan, y0)
+y = euler(odefun, tspan, y0)
+
 
 a = y[1,2]
-b = y[1,6] 
+b = y[1,8] 
 
-x0 = a
+x0 = y[1,2]
 x1 = y[1,3]
 x2 = y[1,4]
 
-#Bi = Bisection_AID2(f, a, b, tol=0.001, maxIters=10, plot_Intervals=False)
-Mull = Muller_Method_AID2(f,x0,x1,x2,maxIters,tol)
-N_R = newton(fun, x0, tol, maxiter, fprime = None)
+#Bi, Bi_Iters = Bisection_AID2(f, a, b, tol=0.001, maxIters=10, plot_Intervals=False)
+Mull, Mull_Iters = Muller_Method_AID2(f,x0,x1,x2,maxIters,tol)
+NR, NR_Iters = newton(fun, x0, tol, maxiter, fprime = None)
 
 print(Mull)
 
