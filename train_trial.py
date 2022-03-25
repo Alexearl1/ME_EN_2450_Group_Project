@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import Newton_Raphson_AID2 as nr
 
 def Train_Motion2(v):
     g = 9.8     # m/s^2
@@ -35,5 +36,7 @@ for i in range(len(v)):
     y[i] = Train_Motion2(v[i])
 
 
+
 plt.plot(v,y)
 plt.show()
+v0 = nr.newton(Train_Motion2, 2, .001, 1*10**5)
