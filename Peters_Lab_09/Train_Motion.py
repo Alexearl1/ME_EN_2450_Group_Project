@@ -1,5 +1,7 @@
 import numpy as np
 
+# Train Motion Function: Alex Peters
+#   - Code from AID2 was used as a starting point.
 
 def train_Motion(t, y, params):
     """
@@ -25,12 +27,12 @@ def train_Motion(t, y, params):
     La = params[12]
     Fp = params[13]
     
-    # Forces:
+    # Forces: Alex Peters
     T = rg * Fp
     Fd = 0.5 * (rho*CD*A*pow(v,2))
     Fr = mt*g*Cr
     
-    # Acceleration/Deceleration:
+    # Acceleration/Deceleration: Alex Peters
     if x <= La:
         dvdt = (1/(mt + 2*mw)) * ((T/rw) - Fd -Fr)
         dxdt = v

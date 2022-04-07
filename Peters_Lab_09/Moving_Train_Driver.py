@@ -6,6 +6,7 @@ from rk4 import *
 from Train_Motion import *
 
 # Initialize Givens/Parameters:
+    # Code from AID2 was used as a starting point.
 
 Ls = 0.1    # m
 rw = 0.025  # m
@@ -28,14 +29,30 @@ params = [g, rho, mt, A, CD, Cr, mw, rw, rg, P, rp, Ls, La, Fp]
 x0 = 0
 v0 = 0
 y0 = [x0,v0]
-tspan = np.linspace(0,10)
 
-# Function/Calls:
+# Function/Calls: Alex
+#   - and calculating necessary stepsize needed for convergence: Alex Peters and Shawn Haymore
 
-f = lambda t, y : train_Motion(tspan, y, params)
-y, t = rk4(f, tspan, y0)
+for i in range(500):
+    if i== 0:
+        tspan = np.linspace(0,10)
+    else:
+        n = 1/(i*2)
+        tspan = np.arange(0,10,n)
+        
+    f = lambda t, y : train_Motion(tspan, y, params)
+    y, t = rk4(f, tspan, y0)
+    
+    ans = np.empty(y.shape)
+    ans = np.array(y[0,i+1] - y[0,i])
+    tol = 0.01
+    # print(ans)        # To check what output of y is at each iter.
+    if ans < tol:
+        #print(i)       # To check # of iters.
+        print('The rk4 function converges at a step size of:',n)
+        break
 
-# Plotting:
+# Plotting: Alex Peters
 
 x = y[0,:]
 v = y[1,:]
@@ -47,4 +64,4 @@ plt.xlabel('Time (s)')
 plt.legend(['Position','Velocity'],loc = 'upper left')
 plt.grid(True)
 plt.show()
-plt.savefig('Position_&_Velocity')
+#plt.savefig('Position_&_Velocity.pdf')     # Wasn't working, only output a blank white graph. 
