@@ -1,0 +1,534 @@
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is: 
+The outputs of the minimizatin is:  [(0.2, 0.05, 70000, 0.002, 0.1, 0.02), [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]]
+The outputs of the minimizatin is:  [(0.2, 0.05, 70000, 0.002, 0.1, 0.02), [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]]
+The outputs of the minimizatin is:
+ [(0.2, 0.05, 70000, 0.002, 0.1, 0.02), [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.128112811281128]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.128112811281128, 1.124112411241124]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.128112811281128, 1.124112411241124, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.128112811281128, 1.124112411241124, inf, 1.06010601060106]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.128112811281128, 1.124112411241124, inf, 1.06010601060106, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf, 1.2012012012012012, 1.1211211211211212, inf, 1.2212212212212212, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.2, 0.05, 70000, 0.002, 0.1, 0.02) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf, inf, inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032) 
+ [inf]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397]
+The outputs of the minimizatin is:
+ 0 
+ [20.0, 20.0, 1.306532663316583, 1.306532663316583, 20.0, 1.407035175879397, 20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
+The outputs of the minimizatin is:
+ 0 
+ [20.0]
