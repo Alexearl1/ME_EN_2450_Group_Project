@@ -59,9 +59,9 @@ if __name__ == '__main__':
     Ls = (0.1,0.5)      # m         
     rp = (0.02, 0.05)   # m
     
-    x0 = (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032)   # Given Bounds Guess for stainless steel train
-    #x0 = (0.2, 0.05, 70000, 0.002, 0.1, 0.02)       # Lower Bounds Guess
-    #x0 = (.3, 0.2, 200000, 0.01, 0.5, 0.05)        # Upper Bounds Guess 
+    x0 = (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032)   # Given Bounds for stainless steel train
+    #x0 = (0.2, 0.05, 70000, 0.002, 0.1, 0.02)         # Lower Bounds 
+    #x0 = (.3, 0.2, 200000, 0.01, 0.5, 0.05)           # Upper Bounds  
     bounds = (Lt, ro, P0, rg, Ls, rp)
     
     x0 = 0
@@ -81,7 +81,7 @@ if __name__ == '__main__':
     ro= 0.115
     P0= 115000.0
     rg= 0.005
-    Lr= 0.3
+    Lr= 0.35
     rp= 0.032
     var_params = np.array([Lt, ro, P0, rg, Lr, rp])
     const_params = [rho_a, P_a, CD, Cr, mu, rw, mw, rho_t['titanium']]
@@ -110,5 +110,7 @@ if __name__ == '__main__':
     print('The Optimum Physical Parameters are:\n', res.x)
     
     
+    var_params_real = np.array([.2, .0508, 70000, .003175, 0.1016, 0.0191])   # Realistic Bounds
+    drive(var_params_real)
     
     
