@@ -24,28 +24,23 @@ def train_Motion(t, y, const_params, var_params):
     A_p = np.pi*(rp**2)
     ri = ro/1.15
     Lp = 1.5*Lr
-    V = np.pi*(rp**2)                   # Volume of inner chamber of piston.
-    m_tube = rho * Lt * np.pi*((ro**2)-(ri**2))
-    m_pist = 1250 * (np.pi*(rp**2)*Lp)
+    V0 = np.pi*(rp**2)                   # Volume of inner chamber of piston.
+    m_tube = (((np.pi * (ro**2) * Lt) - (np.pi * (ri**2) * Lt)) *rho)
+    m_pist = 1250 * A_p * Lp
     mt = m_pist + m_tube + (2*mw)
     
     # Calculating Forces:
     La = Lr*(rw/rg)
     Fr = mt*g*Cr
-    
     Fd = 0.5 * rho_a*CD*A_t*(v**2)
     
-    P0 += P_a
-    P = ((P0+P_a)*V)/(V + A_p*(rg/rw)*x)-P_a
-    Ft = ((rg*A_p)/rw)*(((P0+P_a)*V)/(V + A_p*(rg/rw)*x)-P_a)
+    x_transition = Lp * rw/rg
+    Ft = ((rg*A_p)/rw) * ((((P0+P_a)*V0)/(V0 + (A_p*(rg/rw)*x_transition))) - P_a)
     
-    #Ft = ((r_g * Ap) /r_w) * ((((P_0gauge + P_atm) * V0)/(V0 + (Ap * (r_g/r_w) * x_transition))) - P_atm)
-
     # Checking for Design Constraints:
     w_slip = mu*(mt/2)*g
     
-    print(P, P0, P_a, V, A_p, rg, rw, x)
-    print(Ft)
+    #print(P, P0, P_a, V, A_p, rg, rw, x)
     
     # Acceleration/Deceleration:
     if x <= La:

@@ -29,7 +29,7 @@ def rk4(odefun, tspan, y0):
         h = tspan[k+1] - tspan[k]
         
         k1 = odefun(t[k], y[k,:])
-        import pdb;pdb.set_trace()
+        #import pdb;pdb.set_trace()
         k2 = odefun(t[k]+.5*h, y[k,:]+.5*k1*h)
         k3 = odefun(t[k]+.5*h, y[k,:]+.5*k2*h)
         k4 = odefun(t[k]+h, y[k,:]+k3*h)

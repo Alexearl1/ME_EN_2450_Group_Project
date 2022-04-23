@@ -1,17 +1,19 @@
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
+import time
 
 from scipy.integrate import solve_ivp
 from scipy.optimize import Bounds
 from scipy.optimize import minimize
-
 
 from rk4 import *
 from Train_Motion import *
 from plot_results import *
 
 # Assumed position of piston would be behind the train, so total length is length_piston + length_train
+
+time_start = time.process_time()
 rho_t = {'PVC':1400, 'acrylic':1200, 'galvanized_steel':7700, 'stainless_steel':8000,
           'titanium':4500, 'copper':8940, 'aluminium':2700}   # kg/m^3
     
@@ -57,7 +59,7 @@ if __name__ == '__main__':
     Ls = (0.1,0.5)      # m         
     rp = (0.02, 0.05)   # m
     
-    x0 = (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032)   # Given Bounds Guess
+    x0 = (0.25, 0.115, 105000.0, 0.005, 0.3, 0.032)   # Given Bounds Guess for stainless steel train
     #x0 = (0.2, 0.05, 70000, 0.002, 0.1, 0.02)       # Lower Bounds Guess
     #x0 = (.3, 0.2, 200000, 0.01, 0.5, 0.05)        # Upper Bounds Guess 
     bounds = (Lt, ro, P0, rg, Ls, rp)
@@ -75,19 +77,19 @@ if __name__ == '__main__':
     CD = 0.8     # N/a       
     Cr = 0.03    # N/a       
     
-    Lt=0.25
+    Lt= 0.25
     ro= 0.115
     P0= 115000.0
     rg= 0.005
     Lr= 0.3
     rp= 0.032
     var_params = np.array([Lt, ro, P0, rg, Lr, rp])
-    const_params = [rho_a, P_a, CD, Cr, mu, rw, mw, rho_t['stainless_steel']]
+    const_params = [rho_a, P_a, CD, Cr, mu, rw, mw, rho_t['titanium']]
     t,y = wrapper_train_motion(const_params, var_params, return_only_time=False)
     
-    plt.plot(t,y[:,0])
-    plt.plot(t,y[:,1])
-    plt.show()
+    l_track = 10
+    l_runout = 2.5
+    plot_results(t, y, l_track, l_runout, filename=None, title=None, interactive=False)
     
     keys = rho_t.keys()
     times = []
@@ -99,10 +101,14 @@ if __name__ == '__main__':
         
         res = minimize(drive, x0, bounds = bounds, method='Nelder-Mead')
         times.append(drive(res.x))
-        
-        print("The outputs of the minimizatin is:\n", x0, '\n', times, file=open("output.txt","a"))
-        
-        
-    #print('\nThe viable materials for our train to be made out of are: Galvanized Steel, Stainless Steel, and Copper.')
-
+    time_elapsed = (time.process_time() - time_start)
+    
+    print('\nTotal Computation Time is:', time_elapsed,'seconds.')
+    print('Maximum distance traveled is:', y[:,0].max())
+    print('Time to reach finish line:', t[-1])
+    np.set_printoptions(suppress=True)
+    print('The Optimum Physical Parameters are:\n', res.x)
+    
+    
+    
     
